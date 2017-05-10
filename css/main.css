@@ -138,3 +138,36 @@ hr{
 	color: white;
 	padding: 15px;
 }
+/************
+   CONTACT
+*************/
+.contact{
+	width: 100%;
+ 	height: 450px;
+	padding: 90px 0 1px;
+}
+.form{
+	margin-left: 16.66666667%;
+}
+.data{
+	border-top: 2px solid #eee;
+	width: 800px;
+	font-size: 30px;
+}
+.data input,
+.data textarea{
+	outline: none;
+	border: none;
+	font-size: 1.5rem;
+}
+.form .btn-send{
+	color: #fff;
+	background-color: #128f76;
+	padding: 15px;
+	border: none;
+	border-radius: 5px;
+	font-size: 1rem;
+}
+.form .btn-send:hover{
+	background-color: #1e7362;
+}
