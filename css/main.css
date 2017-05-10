@@ -101,6 +101,9 @@ hr{
 .cont-img{
 	height: 250px;
 }
+.cont-img:hover{
+	background-color: rgba(24, 188, 156, .9);
+}
 .portfolio-images{
 	padding-left: 70px;
 }
