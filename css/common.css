@@ -7,3 +7,26 @@
  .blue{
  	color: #2c3e50;
  }
+ .letter-blue{
+ 	color: #333;
+ }
+.fa-star:before{
+	font-size: 2rem;
+}
+.star{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.title{
+	font-size: 2.5rem;
+}
+.center{
+	text-align: center;
+}
+.font-monst{
+	font-family: 'Montserrat', sans-serif;
+}
+.font-lato{
+	font-family: 'Lato', sans-serif;
+}
