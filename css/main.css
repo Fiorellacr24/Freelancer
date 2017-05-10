@@ -50,8 +50,17 @@ header{
  	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
  }
  .presentation h1{
- 	color: white;
  	font-size: 4.75rem;
- }
+ 	color: white;
+}
+.presentation hr{
+    color: #fff;
+	border-top: 5px solid;
+	max-width: 250px;
+	text-align: center;
+	margin: 25px auto 30px;
+}
+
